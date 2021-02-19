@@ -347,9 +347,9 @@ theme = "LoveIt"
       # Disqus 评论系统设置
       [params.page.comment.disqus]
         # 
-        enable = false
+        enable = true
         # Disqus 的 shortname，用来在文章中启用 Disqus 评论系统
-        shortname = ""
+        shortname = "blog-czqi-net"
       # Gitalk 评论系统设置
       [params.page.comment.gitalk]
         # 
@@ -525,9 +525,9 @@ theme = "LoveIt"
 
 # 作者配置
 [author]
-  name = "xxxx"
-  email = ""
-  link = ""
+  name = "Chenzhang"
+  email = "me@czqi.net"
+  link = "https://blog.czqi.net/"
 
 # 网站地图配置
 [sitemap]
