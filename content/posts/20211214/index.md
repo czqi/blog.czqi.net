@@ -45,6 +45,6 @@ toc:
 ```
 
 ## 写作流程
-1. 打开`github.dev`blog项目对应地址，即可进入编辑器
+1. 打开[`github.dev`](https://github.dev/)blog项目对应地址，即可进入编辑器
 2. 在`/content/posts`下新建`.md`文档，复制头文件，开始写作
 3. 编辑结束后，使用git commit到仓库，Vercel会自动同步，在数秒后部署完成。
