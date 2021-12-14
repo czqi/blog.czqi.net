@@ -1,19 +1,14 @@
 ---
 title: "我如何写blog.czqi.net"
 subtitle: "github.dev + Vercel + Hugo + LoveIt"
-date: 2021-12-13
-lastmod: 2021-12-14
+date: 2021-12-14
 draft: false
 
 tags: ["Hugo"]
 categories: ["notes"]
 
-featuredImage: "banner.jpg"
-featuredImagePreview: "banner.jpg"
-
 toc:
   enable: true
-  auto: true
 ---
 
 ### 内容管理
@@ -25,10 +20,6 @@ toc:
     - 静态资源存放到`/asset`文件夹
     - 静态资源存放到`/static`文件夹
 
-#### 引用图片
-![banner](banner.png)
-
-
 
 ### 文件头
 文件头写在每个.md文件的最前，我常用的格式为：
@@ -37,17 +28,12 @@ toc:
 title: "我如何写blog.czqi.net"
 subtitle: "github.dev + Vercel + Hugo + LoveIt"
 date: 2021-12-14
-lastmod: 2021-12-14
 draft: false
 
-tags: ["hugo","Vercel"]
+tags: ["Hugo"]
 categories: ["notes"]
-
-featuredImage: "banner.jpg"
-featuredImagePreview: ""
 
 toc:
   enable: true
-  auto: true
 ---
 ```
