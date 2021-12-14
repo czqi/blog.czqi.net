@@ -1,15 +1,15 @@
 ---
 title: "我如何写blog.czqi.net"
 subtitle: "github.dev + Vercel + Hugo + LoveIt"
-date: 2021-12-14
+date: 2021-12-13
 lastmod: 2021-12-14
 draft: false
 
-tags: ["hugo","Vercel"]
+tags: ["Hugo"]
 categories: ["notes"]
 
 featuredImage: "banner.jpg"
-featuredImagePreview: ""
+featuredImagePreview: "banner.jpg"
 
 toc:
   enable: true
