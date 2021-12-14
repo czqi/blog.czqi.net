@@ -4,10 +4,9 @@ subtitle: "github.dev + Vercel + Hugo + LoveIt"
 date: 2021-12-14
 lastmod: 2021-12-14
 draft: false
-author: "czqi"
 
-tags: [hugo vercel github.dev]
-categories: [notes]
+tags: ["hugo","Vercel"]
+categories: ["notes"]
 
 featuredImage: "banner.jpg"
 featuredImagePreview: ""
@@ -26,19 +25,23 @@ toc:
     - 静态资源存放到`/asset`文件夹
     - 静态资源存放到`/static`文件夹
 
+#### 引用图片
+![banner](banner.png)
+
+
+
 ### 文件头
 文件头写在每个.md文件的最前，我常用的格式为：
 ```
 ---
 title: "我如何写blog.czqi.net"
-subtitle: "github.dev + Vercel + hugo"
-date: 2020-03-04
-lastmod: 2020-03-14
+subtitle: "github.dev + Vercel + Hugo + LoveIt"
+date: 2021-12-14
+lastmod: 2021-12-14
 draft: false
-author: "czqi"
 
-tags: [hugo]
-categories: [notes]
+tags: ["hugo","Vercel"]
+categories: ["notes"]
 
 featuredImage: "banner.jpg"
 featuredImagePreview: ""
