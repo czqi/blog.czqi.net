@@ -11,7 +11,13 @@ toc:
   enable: true
 ---
 
-### 内容管理
+## Why `github.dev + Vercel + Hugo + LoveIt`
+
+[LoveIt](https://hugoloveit.com/):Hugo的主题
+
+
+
+## 内容管理
 根据`LoveIt`主题的文档：
 1. 文章放到`/content/posts`文件夹
 2. 其他页面放到`/content`文件夹
