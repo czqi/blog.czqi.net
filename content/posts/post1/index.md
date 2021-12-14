@@ -7,7 +7,7 @@ lastmod: 2020-03-14
 draft: false
 author: "czqi"
 
-tags: [hugo]
+tags: [hugo vercel github.dev]
 categories: [notes]
 
 featuredImage: "banner.jpg"
