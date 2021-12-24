@@ -2,7 +2,6 @@
 title: "我如何写blog.czqi.net"
 subtitle: "github.dev + Vercel + Hugo + LoveIt"
 date: 2021-12-14
-draft: true
 
 tags: ["Hugo"]
 categories: ["notes"]
