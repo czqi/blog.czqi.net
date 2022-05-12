@@ -17,7 +17,6 @@ categories: ["notes"]
 
 ```
 mkdir -p ~/.config/fontconfig/conf.d
-
 vi ~/.config/fontconfig/conf.d/64-language-selector-prefer.conf
 ```
 
@@ -55,7 +54,7 @@ vi ~/.config/fontconfig/conf.d/64-language-selector-prefer.conf
 </fontconfig>
 ```
 
-执行`fc-cache -fv`更新字体缓存，执行`fc-match -s | grep 'Noto Sans CJK'`，返回`NotoSansCJK-Regular.ttc: "Noto Sans CJK SC" "Regular"` 则表示设置成功。
+执行`fc-cache -fv`更新字体缓存，然后执行`fc-match -s | grep 'Noto Sans CJK'`，返回`NotoSansCJK-Regular.ttc: "Noto Sans CJK SC" "Regular"` 则表示设置成功。
 
 
 ## 参考：
