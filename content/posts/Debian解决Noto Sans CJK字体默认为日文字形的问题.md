@@ -6,8 +6,7 @@ tags: [Debian]
 categories: ["notes"]
 ---
 
-使用中文为默认语言时，CJK字体应为默认中文字形，因此不存在CJK字体的默认字形问题。默认语言非中文时，会出现CJK字体默认字形的问题。可以通过以下代码检查：  
-执行`fc-match -s | grep 'Noto Sans CJK'`。  
+使用中文为默认语言时，CJK字体应为默认中文字形，因此不存在CJK字体的默认字形问题。默认语言非中文时，会出现CJK字体默认字形的问题。可以执行`fc-match -s | grep 'Noto Sans CJK'`检查：  
 返回`NotoSansCJK-Regular.ttc: "Noto Sans CJK JP" "Regular"` 则代表默认字形为日文；  
 返回`NotoSansCJK-Regular.ttc: "Noto Sans CJK SC" "Regular"` 则代表默认字形为简体中文。
 
