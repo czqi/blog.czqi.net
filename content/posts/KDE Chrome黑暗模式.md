@@ -2,8 +2,8 @@
 title: "KDE Plasma + Chrome 黑暗模式"
 date: 2022-05-22
 draft: false
-tags: [KDE Plasma, Chrome]
-categories: [env]
+tags: ["KDE Plasma", "Chrome"]
+categories: ["env"]
 ---
 
 ## 1. 使用Classic主题
