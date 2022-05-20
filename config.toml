@@ -6,7 +6,7 @@ languageCode = "zh-CN"
 # 是否包括中日韩文字
 hasCJKLanguage = true
 # 网站标题
-title = "Chenzhang's Blog"
+title = "czqi blog"
 
 enableEmoji = true
 
@@ -46,7 +46,7 @@ theme = "LoveIt"
   #  LoveIt 主题版本
   version = "0.2.X"
   # 网站描述
-  description = "Chenzhang's Blog"
+  description = "czqi blog, about tech and life"
   # 网站关键词
   ## keywords = ["Theme", "Hugo"]
   # 网站默认主题样式 ("light", "dark", "auto")
@@ -64,7 +64,7 @@ theme = "LoveIt"
   #  应用图标配置
   [params.app]
     # 当添加到 iOS 主屏幕或者 Android 启动器时的标题, 覆盖默认标题
-    title = "Chenzhang's Blog"
+    title = "czqi blog"
     # 是否隐藏网站图标资源链接
     noFavicon = false
     # 更现代的 SVG 网站图标, 可替代旧的 .png 和 .ico 文件
@@ -109,25 +109,25 @@ theme = "LoveIt"
       # LOGO 的 URL
       logo = ""
       # 标题名称
-      name = "Chenzhang's Blog"
+      name = "czqi blog"
       # 你可以在名称 (允许 HTML 格式) 之前添加其他信息, 例如图标
       pre = ""
       # 你可以在名称 (允许 HTML 格式) 之后添加其他信息, 例如图标
       post = ""
       #  是否为标题显示打字机动画
-      typeit = false
+      typeit = true
 
   # 页面底部信息配置
   [params.footer]
-    enable = false
+    enable = true
     #  自定义内容 (支持 HTML 格式)
     custom = ''
     #  是否显示 Hugo 和主题信息
-    hugo = false
+    hugo = true
     #  是否显示版权信息
-    copyright = false
+    copyright = true
     #  是否显示作者
-    author = false
+    author = true
     # 网站创立年份
     since = 2021
     # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
@@ -159,15 +159,15 @@ theme = "LoveIt"
     rss = 10
     # 主页个人信息
     [params.home.profile]
-      enable = true
+      enable = false
       # Gravatar 邮箱，用于优先在主页显示的头像
       gravatarEmail = ""
       # 主页显示头像的 URL
-      avatarURL = "/images/avatar.png"
+      avatarURL = ""
       #  主页显示的网站标题 (支持 HTML 格式)
-      title = "Chenzhang's Blog"
+      title = ""
       # 主页显示的网站副标题
-      subtitle = "Hi! This is Chenzhang!"
+      subtitle = ""
       # 是否为副标题显示打字机动画
       typeit = true
       # 是否显示社交账号
@@ -527,7 +527,7 @@ theme = "LoveIt"
 
 # 作者配置
 [author]
-  name = "Chenzhang"
+  name = "czqi"
   email = "me@czqi.net"
   link = "https://blog.czqi.net/"
 

@@ -1,6 +1,6 @@
 ---
 title: "KDE Plasma + Chrome 黑暗模式"
-date: 2022-05-22
+date: 2022-05-20
 draft: false
 tags: ["KDE Plasma", "Chrome"]
 categories: ["env"]
