@@ -462,7 +462,7 @@ theme = "LoveIt"
     enable = false
     # Google Analytics
     [params.analytics.google]
-      id = ""
+      id = "316111921"
       # 是否匿名化用户 IP
       anonymizeIP = true
     # Fathom Analytics
