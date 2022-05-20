@@ -459,7 +459,7 @@ theme = "LoveIt"
 
   #  网站分析配置
   [params.analytics]
-    enable = false
+    enable = true
     # Google Analytics
     [params.analytics.google]
       id = "316111921"
