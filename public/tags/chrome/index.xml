@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chrome on czqi blog</title>
+    <link>https://blog.czqi.net/tags/chrome/</link>
+    <description>Recent content in Chrome on czqi blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>me@czqi.net (czqi)</managingEditor>
+    <webMaster>me@czqi.net (czqi)</webMaster>
+    <lastBuildDate>Fri, 20 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.czqi.net/tags/chrome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KDE Plasma &#43; Chrome 黑暗模式</title>
+      <link>https://blog.czqi.net/2022/05/kde-plasma-chrome%E9%BB%91%E6%9A%97%E6%A8%A1%E5%BC%8F/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      <author>me@czqi.net (czqi)</author>
+      <guid>https://blog.czqi.net/2022/05/kde-plasma-chrome%E9%BB%91%E6%9A%97%E6%A8%A1%E5%BC%8F/</guid>
+      <description>1. 使用Classic主题 切换为Classic主题，不要使用GTK+。 2. 替换启动命令 原始的启动命令是： 1 /usr/bin/google-chrome-stable %U 改为： 1 /usr/bin/google-chrome-stable %U --enable-features=WebUIDarkMode --force-dark-mode 3. 在chrome:</description>
+    </item>
+    
+  </channel>
+</rss>

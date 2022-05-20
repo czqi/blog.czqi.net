@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tmux on czqi blog</title>
+    <link>https://blog.czqi.net/tags/tmux/</link>
+    <description>Recent content in tmux on czqi blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>me@czqi.net (czqi)</managingEditor>
+    <webMaster>me@czqi.net (czqi)</webMaster>
+    <lastBuildDate>Fri, 13 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.czqi.net/tags/tmux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tmux简要笔记</title>
+      <link>https://blog.czqi.net/2022/05/tmux%E7%AE%80%E8%A6%81%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <author>me@czqi.net (czqi)</author>
+      <guid>https://blog.czqi.net/2022/05/tmux%E7%AE%80%E8%A6%81%E7%AC%94%E8%AE%B0/</guid>
+      <description>tmux简要笔记 安装tmux Debian可以使用apt命令直接安装。 1 sudo apt install tmux tmux概念 Ctrl-b是默认的快捷键和指令的入口。 窗格Pan</description>
+    </item>
+    
+  </channel>
+</rss>

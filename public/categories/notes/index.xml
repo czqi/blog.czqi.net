@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>notes on czqi blog</title>
+    <link>https://blog.czqi.net/categories/notes/</link>
+    <description>Recent content in notes on czqi blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>me@czqi.net (czqi)</managingEditor>
+    <webMaster>me@czqi.net (czqi)</webMaster>
+    <lastBuildDate>Fri, 13 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.czqi.net/categories/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>tmux简要笔记</title>
+      <link>https://blog.czqi.net/2022/05/tmux%E7%AE%80%E8%A6%81%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Fri, 13 May 2022 00:00:00 +0000</pubDate>
+      <author>me@czqi.net (czqi)</author>
+      <guid>https://blog.czqi.net/2022/05/tmux%E7%AE%80%E8%A6%81%E7%AC%94%E8%AE%B0/</guid>
+      <description>tmux简要笔记 安装tmux Debian可以使用apt命令直接安装。 1 sudo apt install tmux tmux概念 Ctrl-b是默认的快捷键和指令的入口。 窗格Pan</description>
+    </item>
+    
+    <item>
+      <title>Debian解决Noto Sans CJK字体默认为日文字形的问题</title>
+      <link>https://blog.czqi.net/2022/05/debian%E8%A7%A3%E5%86%B3noto-sans-cjk%E5%AD%97%E4%BD%93%E9%BB%98%E8%AE%A4%E4%B8%BA%E6%97%A5%E6%96%87%E5%AD%97%E5%BD%A2%E7%9A%84%E9%97%AE%E9%A2%98/</link>
+      <pubDate>Wed, 11 May 2022 00:00:00 +0000</pubDate>
+      <author>me@czqi.net (czqi)</author>
+      <guid>https://blog.czqi.net/2022/05/debian%E8%A7%A3%E5%86%B3noto-sans-cjk%E5%AD%97%E4%BD%93%E9%BB%98%E8%AE%A4%E4%B8%BA%E6%97%A5%E6%96%87%E5%AD%97%E5%BD%A2%E7%9A%84%E9%97%AE%E9%A2%98/</guid>
+      <description>使用中文为默认语言时，CJK字体应为默认中文字形，因此不存在CJK字体的默认字形问题。默认语言非中文时，会出现CJK字体默认字形的问题。可以</description>
+    </item>
+    
+  </channel>
+</rss>
