@@ -69,5 +69,9 @@ sudo apt install tmux
 
 使用快捷键`Ctrl-b Ctrl-s`保存当前环境，`Ctrl-b Ctrl-r`恢复上次保存的环境。
 
+## 窗格和窗口相互转换
+将窗格独立为窗口：使用快捷键`Ctrl-b !`或命令`break-pane`
+将窗口作为窗格加入其他窗口：命令`join-pane -t :0`（0是目标窗口）
+
 ## 推荐资源：
 [Tmux Cheat Sheet & Quick Reference](https://tmuxcheatsheet.com/)

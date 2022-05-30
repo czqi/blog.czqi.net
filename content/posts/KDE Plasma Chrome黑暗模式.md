@@ -24,4 +24,4 @@ categories: ["env"]
 
 ## 3. 在chrome://flags中启用黑暗模式
 
-访问`chrome://flags`，搜索`dark`，将`Auto Dark Mode for Web Contents`的选项改为`Enabled with selective inversion of everything`。
+访问`chrome://flags`，搜索`dark`，将`Auto Dark Mode for Web Contents`的选项改为`Default`或`Enabled with selective inversion of everything`（根据实际效果确定）。
